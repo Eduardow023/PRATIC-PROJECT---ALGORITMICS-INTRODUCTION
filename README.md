@@ -1,18 +1,34 @@
 # PRATIC-PROJECT---ALGORITMICS-INTRODUCTION
 This is a practical project that I developed during the introduction to algorithms course in my Computer Science course.
-This project contais: Reading the .csv file with initial data (including strings with spaces)	
+
+This project contais: 
+
+Reading the .csv file with initial data (including strings with spaces)	
+
 Structure with 5 or more fields, including strings with spaces and numeric data	
+
 Dynamic memory allocation with automatic resizing	
+
 Inserting new data at the end of the array	
+
 Deleting records (ID adjustment, data shifting)	
+
 Updating records with option to keep previous data	
+
 Sorting by ID, balance, and age using QuickSort algorithm (not bubble sort)	
+
 Binary search by ID and age (data sorted before search)	
+
 Full and partial data printing	
+
 Saving to CSV and binary, with corrected CSV (newline after header)	
+
 Menu interface with complete control	
+
 Well-organized code, no use of goto, vector, or sort()	
+
 Helpful comments, clear variable names, and no unnecessary global variables	
+
 Functional menu, with option to save after sorting
 
 Obs.: Need add the filles(arquivo.csv and clientes.bin) on the same folder that the code to work.
