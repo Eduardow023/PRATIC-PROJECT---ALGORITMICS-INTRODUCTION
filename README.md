@@ -15,9 +15,9 @@ Deleting records
 
 Updating records with option to keep previous data	
 
-Sorting by ID, balance, and age using QuickSort algorithm (not bubble sort)	
+Sorting by ID, balance, and age using QuickSort algorithm (quick sort)	
 
-Binary search by ID and age (data sorted before search)	
+Binary search by ID and age
 
 Full and partial data printing	
 
