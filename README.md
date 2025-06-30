@@ -25,7 +25,7 @@ Saving to CSV and binary, with corrected CSV
 
 Menu interface with complete control	
 
-Well-organized code, no use of goto, vector, or sort()	
+No use of goto, vector, or sort()	
 
 Functional menu, with option to save after sorting
 
