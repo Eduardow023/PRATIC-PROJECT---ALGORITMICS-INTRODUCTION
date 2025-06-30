@@ -11,7 +11,7 @@ Dynamic memory allocation with automatic resizing
 
 Inserting new data at the end of the array	
 
-Deleting records (ID adjustment, data shifting)	
+Deleting records 
 
 Updating records with option to keep previous data	
 
