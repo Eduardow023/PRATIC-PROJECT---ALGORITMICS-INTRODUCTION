@@ -3,7 +3,7 @@ This is a practical project that I developed during the introduction to algorith
 
 This project contais: 
 
-Reading the .csv file with initial data (including strings with spaces)	
+Read the .csv file with initial data (including strings with spaces)	
 
 Structure with 5 or more fields, including strings with spaces and numeric data	
 
