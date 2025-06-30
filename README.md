@@ -21,13 +21,11 @@ Binary search by ID and age
 
 Full and partial data printing	
 
-Saving to CSV and binary, with corrected CSV (newline after header)	
+Saving to CSV and binary, with corrected CSV
 
 Menu interface with complete control	
 
 Well-organized code, no use of goto, vector, or sort()	
-
-Helpful comments, clear variable names, and no unnecessary global variables	
 
 Functional menu, with option to save after sorting
 
